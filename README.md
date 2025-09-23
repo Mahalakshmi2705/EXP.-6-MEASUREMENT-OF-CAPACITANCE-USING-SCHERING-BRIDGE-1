@@ -35,8 +35,11 @@ The current voltmeter reading is:
    Dissipation Factor: 
 
 
-  ## Circuit Diagram :
+## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
 
+## Output:
+   <img width="994" height="685" alt="sb mand i" src="https://github.com/user-attachments/assets/ccdcbd03-73d2-46a8-a338-ecfa9246daab" />
 
 ## Result: 
+Thus the Capacitance of an unknown Capacitor using Schering Bridge has been determined and measured.
